@@ -4,7 +4,7 @@
 	<groupId>com.cloud</groupId>
 	<artifactId>konakart</artifactId>
 	<packaging>war</packaging>
-	<version>1.0.3-SNAPSHOT</version>
+	<version>1.0.3</version>
 	<name>KonakartM Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	
