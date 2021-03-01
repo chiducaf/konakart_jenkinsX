@@ -8,7 +8,13 @@
 	<name>KonakartM Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	
-		
+		<distributionManagement>
+             <repository>
+        <id>Devops-e-lab-konakart</id>
+        <name>Devops-e-lab-konakart</name>
+        <url>http://35.227.41.228:32000/repository/Devops-e-lab-konakart/</url>
+    </repository>
+      </distributionManagement>
 		
 		 <dependencies>
 		<dependency>
