@@ -2,7 +2,7 @@ From ringcentral/jdk
 
 MAINTAINER ="Atos"
 
-LABEL "customized"="Customization image for gitlab using with apache2 service"
+LABEL "customized"="Customized image for gitlab using apache2 services"
 
 ARG SSL_KEYSTORE_PASSWORD
 
